@@ -3,7 +3,7 @@
 build/
 !**/src/main/**
 !**/src/test/**
-.idea
+.idea/
 .gradle
 
 # Log file
